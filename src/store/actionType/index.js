@@ -1,0 +1,9 @@
+export const SET_INITIAL_BOARD = 'SET_INITIAL_BOARD'
+export const SET_FILLED_BOARD = 'SET_FILLED_BOARD'
+export const SET_SOLVED_BOARD = 'SET_SOLVED_BOARD'
+export const SET_ERROR = 'SET_ERROR'
+export const SET_STATUS = 'SET_STATUS'
+export const SET_PLAYER = 'SET_PLAYER'
+export const SET_LEADERBOARD = 'SET_LEADERBOARD'
+export const SET_TIMER = 'SET_TIMER'
+
